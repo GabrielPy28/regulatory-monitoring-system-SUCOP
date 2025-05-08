@@ -1,0 +1,20 @@
+{
+  "total_normativas": 14,
+  "normativas_por_estado": {
+    "estado": [
+      "Cerrada",
+      "Activa",
+      "Finalizada"
+    ],
+    "count": [
+      4,
+      1,
+      9
+    ]
+  },
+  "promedio_comentarios": 10.285714285714286,
+  "rango_fechas": {
+    "min": "2024-10-31",
+    "max": "2025-05-07"
+  }
+}
